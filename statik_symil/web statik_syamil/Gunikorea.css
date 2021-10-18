@@ -1,0 +1,12 @@
+.navbar-brand{
+    color: rgb(152, 163, 157);
+}
+
+/* seksyen 1 */
+
+.seksyen1{
+    background-image: linear-gradient(to right, #052137, #16283e, #243045, #30384c, #3c4053);
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: white;
+}
